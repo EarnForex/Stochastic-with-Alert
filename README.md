@@ -9,6 +9,6 @@ It is a non-repainting indicator.
 ![Stochastic with Alert shows some example arrows on this EUR/USD chart](https://github.com/EarnForex/Stochastic-with-Alert/blob/main/stochastic-alert-indicator-example-chart.png)
 
 A detailed description of the indicator can be found here:
-https://www.earnforex.com/metatrader-indicators/stochastic-alert/
+https://www.earnforex.com/indicators/stochastic-alert/
 
 Any contributions to the code are welcome!
